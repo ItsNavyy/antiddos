@@ -5,10 +5,10 @@
  #########################################################  
  #                       CONTACT                         # 
  ######################################################### 
- #              DEVELOPER : İSMAİL TAŞDELEN              #                        
- #           GMAIL : ismailtasdelen@protonmail.com       # 
- # Linkedin : https://www.linkedin.com/in/ismailtasdelen # 
- #           Telegram : https://t.me/ismailtasdelen      # 
+ #              DEVELOPER : NAVY.                        #                        
+ #           GMAIL : secretprojectanonynous@gmail.com    # 
+ # Linkedin : https://www.linkedin.com/in/navygaming.    # 
+ #           Telegram : https://t.me/navy.               # 
  ######################################################### 
   
  # For debugging use iptables -v. 
